@@ -1,6 +1,6 @@
 # Flutter Camera & Image Picker: Complete Photo/Video App
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/flutter-camera-image-picker-complete-photovideo-app).
 
 A new Flutter project.
 
